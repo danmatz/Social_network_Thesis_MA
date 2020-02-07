@@ -1,0 +1,19 @@
+question,full_question,segment_a,segment_b
+Change Readiness: Openness,Who is open-minded and has a flexible attitude regarding change?,agile,social
+Communication: Formal,Whom do you formally receive information and messages from in relation to changes in the organization and processes?,formal,formal
+Communication: Formal quality,How useful is this information to better understand what the changes mean for your work?,formal_information_quality,formal
+Communication: Informal,With whom do you have informal conversations about changes in the organization and processes?,information,information
+Communication: Represent,Who is most likely to speak for the needs and opinions of others?,representer,social
+Communication: Well-informed,Who do you consider to be well-informed with access to the latest news and updates?,information,information
+Intrapersonal: Advice,Whom do you turn to if you need to discuss personal problems?,information,information
+Intrapersonal: Helpful,Who is always ready or willing to help others?,helpful,social
+Intrapersonal: Support,Whom do you feel comfortable asking for help if you find your work difficult?,information,information
+Intrapersonal: Trustworthy,Whom do you consider trustworthy and dependable?,trustworthy,social
+Leadership: Decision,Whom do you often turn to for advice before making an important work-related decision?,information,information
+Leadership: Problemsolving,Who is good at solving problems in critical situations?,problem_solver,social
+Leadership: Rolemodel,Who is admired and used as examples to be imitated?,rolemodel,corporate
+Leadership: Values,Who best represents the core values of the organization?,value_driven,corporate
+Mobilization: Feedback,Whom do you receive constructive feedback from about your work?,information,information
+Mobilization: Ideas,Whom do you consider most effective in winning others over on new ideas?,influencer,corporate
+Mobilization: Inspire,Who inspires you the most when it comes to your work?,inspiring,corporate
+Mobilization: Motivate,Who is best at motivating their co-workers?,motivator,corporate
