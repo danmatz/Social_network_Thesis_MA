@@ -1,4 +1,4 @@
-# Social_network_Thesis_MA
+# Social network, Thesis MA
  Informal structure of the firm, network science
  
  This repo shows my ETL and visualisation for my masters dissertation. I have received result data of an informal organsiation questionnaire about a Hungarian logistic firm. It included employees formal position in the firm and their answers for questions like - who do they turn for information / help, or who do they think is trustworthy / examplary etc. The questionnaire was filled out by 3k employees. 
